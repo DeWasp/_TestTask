@@ -1,5 +1,6 @@
 # Project exclude paths
 /client/target/
+.idea/
 
 # Compiled class file
 *.class
